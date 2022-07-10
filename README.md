@@ -1,4 +1,4 @@
-# HCI & UX 
+# 천 - 안
 
 Human-computer Interaction
 
